@@ -2,9 +2,9 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Tiara Oktaviani Shidik**.\
+Perkenalkan nama saya **Tiara Oktaviani Shidik**.
 
-Saya seorang **Mahasiswa Teknik Informatika** di UIN Sunan Gunung Djati Bandung).\
+Saya seorang **Mahasiswa Teknik Informatika** di UIN Sunan Gunung Djati Bandung.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun ku ya.
 
