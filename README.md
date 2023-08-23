@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# Halo semua! 
+
+Perkenalkan nama saya **Tiara Oktaviani Shidik**.\
+
+Saya seorang **Mahasiswa Teknik Informatika** di UIN Sunan Gunung Djati Bandung).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun ku ya.
+
 <!--
 **TiaraOktavianiShidik/tiaraoktavianishidik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
